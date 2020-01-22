@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
-    char x;
-    int y;
+int main()
+{
+
 }
